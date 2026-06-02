@@ -23,10 +23,7 @@ public:
         int sum = 0;
         int ans = -1;
         for(int i=0;i<weights.size();i++){
-            sum += weights[i];
-            if(weights[i] > start){
-            start = weights[i];
-            }
+            sum += weights[i]; // with the help of sum we are creating the search space 
         }
 
         int end = sum;
