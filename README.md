@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 ## String
