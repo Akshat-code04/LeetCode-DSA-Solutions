@@ -10,18 +10,17 @@ private:
 
 public:
     bool checkInclusion(string s1, string s2) {
-        // If s1 is longer than s2, its permutation cannot exist in s2
+     
         if(s1.length() > s2.length()) return false;
 
-        int count1[26] = {0}; // Frequency array for string s1
+        int count1[26] = {0};
         
-        // Store the frequency of characters of string s1
+  
         for(int i = 0; i < s1.length(); i++) {
             int index = s1[i] - 'a';
             count1[index]++;
         }
 
-        // Traverse the first window of size s1.length() in string s2
         int i = 0;
         int windowSize = s1.length();
         int count2[26] = {0}; // Frequency array for current window in s2
