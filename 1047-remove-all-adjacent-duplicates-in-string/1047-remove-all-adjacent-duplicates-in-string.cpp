@@ -11,10 +11,10 @@ public:
                 ans.pop_back(); // Remove the duplicate adjacent pair (Pop operation)
             } 
             else {
-                ans.push_back(s[i]); // Insert the current character (Push operation)
+                ans.push_back(s[i]); 
             }
         }
         
-        return ans; // 'ans' contains the final cleaned string
+        return ans; 
     }
 };
