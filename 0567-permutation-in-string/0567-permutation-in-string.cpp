@@ -1,11 +1,11 @@
 class Solution {
 private:
-    // Helper function to compare two frequency arrays
+    
     bool checkEqual(int a[26], int b[26]) {
         for(int i = 0; i < 26; i++) {
             if(a[i] != b[i]) return false; // Mismatch found
         }
-        return true; // Both arrays are identical
+        return true; 
     }
 
 public:
