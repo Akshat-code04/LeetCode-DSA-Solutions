@@ -1,14 +1,11 @@
 class Solution {
-private:
-    
+public:
     bool checkEqual(int a[26], int b[26]) {
         for(int i = 0; i < 26; i++) {
             if(a[i] != b[i]) return false; // Mismatch found
         }
         return true; 
     }
-
-public:
     bool checkInclusion(string s1, string s2) {
      
         if(s1.length() > s2.length()) return false;
