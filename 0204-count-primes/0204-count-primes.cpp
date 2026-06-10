@@ -1,6 +1,8 @@
 class Solution {
 public:
     int countPrimes(int n) {
+        // Sieve of Eratosthenes
+
         int count = 0;
         vector<bool> prime(n+1, true);
 
