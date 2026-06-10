@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
