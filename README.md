@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
@@ -136,5 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
