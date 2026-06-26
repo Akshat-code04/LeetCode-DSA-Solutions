@@ -7,7 +7,7 @@ private:
             ans.push_back(nums);
             return;
         }
-
+        // recursive case 
         for(int i=index;i<nums.size();i++){
             swap(nums[index],nums[i]);
             solve(nums,ans,index+1);
