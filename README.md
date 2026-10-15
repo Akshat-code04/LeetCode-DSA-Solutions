@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akshat-code04/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
